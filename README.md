@@ -142,15 +142,12 @@ double max_interval = 300.0;    // Maximum polling interval
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 👥 Authors
-
-- Your Name - Initial work
+Jesu Joel George
+Harshit Gupta 
+Gaurav Soni 
 
 ## 🙏 Acknowledgments
 
 - Inspired by real-world network polling challenges
 - Built for educational and research purposes
 - Demonstrates classic computer science trade-offs between performance and efficiency
-
----
-
-**⭐ Star this repository if you found it helpful!**
