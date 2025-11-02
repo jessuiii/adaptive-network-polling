@@ -1,0 +1,25 @@
+# Compiled executables
+*.exe
+*.out
+adaptive_network
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Output files (optional - you might want to include these)
+# results.csv
+# adaptive_polling_plot.png
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
